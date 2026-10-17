@@ -1,167 +1,219 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F4B,100:1677FF&height=220&section=header&text=KAIZER%20ENTRATA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=14&animation=fadeIn)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=BSIT+Student+%7C+Aspiring+Software+Engineer;Learning+Backend+Development;Building+Practical+Web+Applications;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:0F1B3D,100:3B82F6&height=220&section=header&text=Kaizer%20Entrata&fontSize=56&fontColor=E6F1FF&fontAlign=50&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20IN%20PROGRESS&descSize=18&descAlignY=60&animation=fadeIn" alt="Kaizer Entrata - Full-Stack Developer in Progress banner" width="100%" />
 
-**Building things, understanding how they work, and getting better with every commit.**
+<a href="https://github.com/constanafabula">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=BSIT+Student+%7C+Aspiring+Software+Engineer;Learning+Backend+Development;Building+Practical+Web+Applications;Always+Learning.+Always+Building." alt="Typing animation: BSIT Student, Learning Backend Development, Building Practical Web Applications" />
+</a>
 
-[GitHub](https://github.com/constanafabula) · [Repositories](https://github.com/constanafabula?tab=repositories)
+<br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-constanafabula-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E)](https://github.com/constanafabula)
+[![Repositories](https://img.shields.io/badge/Repositories-Browse-3B82F6?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0A0F1E)](https://github.com/constanafabula?tab=repositories)
 
 </div>
 
----
+<br />
 
-## `whoami`
+I'm a BSIT student working toward becoming a full-stack developer. I'm interested in how web applications are put together: how the frontend talks to the backend, how data is modeled and stored in a database, and how all of it can be kept maintainable. I learn by building small, practical projects and figuring out why they work.
 
-```javascript
-const developer = {
+<br />
+
+## `> whoami`
+
+```js
+const kaizer = {
   name: "Kaizer Entrata",
-  username: "constanafabula",
-  role: "BSIT Student & Aspiring Software Engineer",
-  focus: ["Full-Stack Development", "Backend Development", "Databases"],
-  currentlyLearning: ["TypeScript", "Node.js", "REST APIs", "Authentication"],
-  languages: ["Kotlin", "JavaScript", "SQL"],
-  philosophy: "Understand the fundamentals. Build with purpose."
+  github: "constanafabula",
+  status: "BSIT student",
+  aspiringTo: "Full-Stack Developer",
+  focus: ["Backend development", "Web applications", "Database design"],
+  currentlyLearning: [
+    "JavaScript & TypeScript fundamentals",
+    "REST APIs with Node.js & Express.js",
+    "Authentication & application security",
+    "SQL & relational database design",
+  ],
+  approach: "Understand the fundamentals instead of just copying code",
+  goal: "Build useful, maintainable applications",
 };
 ```
 
-I'm a BSIT student interested in building useful software and understanding the systems behind it. I enjoy working on web applications, exploring database design, and learning how frontend interfaces connect to backend logic.
+<br />
 
-I'm currently strengthening my programming fundamentals and backend development skills while building projects that turn concepts into working applications.
+## `> stack`
 
-- Learning by building real projects.
-- Exploring API development, authentication, and relational databases.
-- Improving my Git and GitHub workflow one commit at a time.
-- Interested in clean code, practical solutions, and continuous improvement.
+> These badges show technologies I use or am actively learning. They don't imply equal proficiency.
 
-## `tech_stack`
+**Languages & web fundamentals**
 
-**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-3B82F6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0A0F1E" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0F1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A0F1E" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-3B82F6?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0F1E" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0F1E" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logoColor=white&labelColor=0A0F1E" alt="SQL" />
+</p>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend & databases**
 
-**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0F1E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-3B82F6?style=for-the-badge&logo=express&logoColor=white&labelColor=0A0F1E" alt="Express.js" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A0F1E" alt="SQLite" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**Development tools**
 
-**Tools & Workflow**
+<p>
+  <img src="https://img.shields.io/badge/Git-3B82F6?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0F1E" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A0F1E" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/npm-3B82F6?style=for-the-badge&logo=npm&logoColor=white&labelColor=0A0F1E" alt="npm" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<br />
 
-> My tech stack reflects technologies I've used or am learning, not necessarily professional-level proficiency in every tool.
+## `> projects`
 
-## `featured_projects`
+A mix of learning projects at different stages. Features marked *planned* are not built yet.
 
 ### SchoolHub
-**A school-focused learning management system**
 
-A frontend-first LMS project designed around classroom management, assessments, learning materials, announcements, and student and teacher workflows.
+A school-focused learning management system, built frontend-first with backend integration planned or in progress.
 
-- Role-based application design for students, teachers, and school administrators.
-- SQLite database planning and backend integration using Node.js and Express.
-- Focus on practical school workflows and structured data relationships.
+- Workflows for students, teachers, and school administrators
+- Classes, assessments, learning materials, and announcements
+- Database design and SQLite integration (*in progress*)
+- Not production-ready; several features are still *planned*
 
-**Tech:** TypeScript, React, Node.js, Express, SQLite
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square&logo=typescript&logoColor=white&labelColor=0A0F1E" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white&labelColor=0A0F1E" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0F1E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-3B82F6?style=flat-square&logo=express&logoColor=white&labelColor=0A0F1E" alt="Express.js" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=flat-square&logo=sqlite&logoColor=white&labelColor=0A0F1E" alt="SQLite" />
+</p>
+
+**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO: replace with the real repo URL -->
+**Live demo:** *coming soon* <!-- TODO: add demo URL or delete this line -->
 
 ### EventEase
-**An event discovery and management website**
 
-A web development project focused on presenting events and organizing event-related information through a clean, accessible interface.
+An event discovery and management website with a clean, accessible interface. This version is being developed as a school assignment using plain HTML, CSS, and basic JavaScript.
 
-- Planned using HTML, CSS, and basic JavaScript for the assigned website version.
-- Designed around event discovery and a straightforward user experience.
+- Event discovery and event-related information
+- Clean, accessible interface
 
-**Tech:** HTML, CSS, JavaScript
+<p>
+  <img src="https://img.shields.io/badge/HTML5-3B82F6?style=flat-square&logo=html5&logoColor=white&labelColor=0A0F1E" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=flat-square&logo=css3&logoColor=white&labelColor=0A0F1E" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white&labelColor=0A0F1E" alt="JavaScript" />
+</p>
+
+**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO -->
+**Live demo:** *coming soon* <!-- TODO -->
 
 ### Jotly
-**A lightweight notes application**
 
-A notes application built around organizing written content and making notes easier to manage.
+A lightweight notes application with an Express backend and SQLite persistence.
 
-- Express backend with SQLite persistence.
-- Notes with titles, content, tags, timestamps, draft status, and favorites.
+- Create and organize notes
+- Titles, content, tags, and timestamps
+- Drafts and favorites
 
-**Tech:** Node.js, Express, SQLite
+<p>
+  <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0F1E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-3B82F6?style=flat-square&logo=express&logoColor=white&labelColor=0A0F1E" alt="Express.js" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=flat-square&logo=sqlite&logoColor=white&labelColor=0A0F1E" alt="SQLite" />
+</p>
+
+**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO -->
+**Live demo:** *coming soon* <!-- TODO -->
 
 ### TaskFlow
-**A task and board management application**
 
-A productivity project exploring task organization and collaborative workflows.
+A task and board management app for practicing authentication and data modeling.
 
-- Boards and tasks with a Kanban-style workflow.
-- Authentication, password hashing, and board join codes.
-- Backend development with a relational database.
+- Boards and tasks with Kanban-style organization
+- Authentication with password hashing
+- Board join codes
 
-**Tech:** Node.js, Express, SQLite, JavaScript
+<p>
+  <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0F1E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-3B82F6?style=flat-square&logo=express&logoColor=white&labelColor=0A0F1E" alt="Express.js" />
+  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=flat-square&logo=sqlite&logoColor=white&labelColor=0A0F1E" alt="SQLite" />
+  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white&labelColor=0A0F1E" alt="JavaScript" />
+</p>
+
+**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO -->
+**Live demo:** *coming soon* <!-- TODO -->
 
 ### Accounting Flashcards
-**An interactive accounting study tool**
 
-A collection of browser-based accounting learning activities.
+An interactive, browser-based study tool for practicing accounting terminology.
 
-- Flashcards for accounting terminology.
-- Quiz and identification-style practice.
-- Built with standard web technologies.
+- Accounting flashcards
+- Quiz and identification-style practice activities
 
-**Tech:** HTML, CSS, JavaScript
+<p>
+  <img src="https://img.shields.io/badge/HTML5-3B82F6?style=flat-square&logo=html5&logoColor=white&labelColor=0A0F1E" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=flat-square&logo=css3&logoColor=white&labelColor=0A0F1E" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white&labelColor=0A0F1E" alt="JavaScript" />
+</p>
+
+**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO -->
+**Live demo:** *coming soon* <!-- TODO -->
+
+<br />
+
+## `> stats`
 
 <div align="center">
 
-[Explore my repositories →](https://github.com/constanafabula?tab=repositories)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=constanafabula&show_icons=true&hide_border=false&bg_color=0A0F1E&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&border_color=1E293B&count_private=false" alt="GitHub stats for constanafabula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanafabula&layout=compact&langs_count=6&bg_color=0A0F1E&title_color=3B82F6&text_color=C9D1D9&border_color=1E293B" alt="Most used languages for constanafabula" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=constanafabula&background=0A0F1E&border=1E293B&stroke=1E293B&ring=3B82F6&fire=3B82F6&currStreakNum=E6F1FF&sideNums=E6F1FF&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=8B98A9" alt="GitHub contribution streak for constanafabula" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=constanafabula&bg_color=0A0F1E&color=C9D1D9&line=3B82F6&point=E6F1FF&area=true&area_color=3B82F6&hide_border=true" alt="Contribution activity graph for constanafabula" width="95%" />
+</p>
 
 </div>
 
----
+<br />
 
-## `github_activity`
+## `> currently_learning`
 
-<div align="center">
+- Strengthening JavaScript and TypeScript fundamentals
+- Building REST APIs with Node.js and Express.js
+- Learning authentication and application security
+- Understanding SQL, relational database design, foreign keys, and data integrity
+- Connecting frontend applications to backend services
+- Improving Git and GitHub workflows
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=constanafabula&show_icons=true&hide_border=true&bg_color=050816&title_color=3399FF&icon_color=3399FF&text_color=E6EDF3&rank_icon=github)](https://github.com/constanafabula)
+<br />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=constanafabula&layout=compact&hide_border=true&bg_color=050816&title_color=3399FF&text_color=E6EDF3)](https://github.com/constanafabula)
+## `> philosophy`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=constanafabula&theme=transparent&hide_border=true&background=050816&ring=3399FF&fire=3399FF&currStreakLabel=3399FF&sideLabels=E6EDF3&dates=8B949E)](https://git.io/streak-stats)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=constanafabula&bg_color=050816&color=E6EDF3&line=3399FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
----
-
-## `currently_working_on`
-
-- Strengthening JavaScript and TypeScript fundamentals.
-- Learning how to design and build REST APIs with Node.js and Express.
-- Understanding database relationships, SQL queries, and data integrity.
-- Improving authentication and application security fundamentals.
-- Building projects that connect frontend interfaces to backend services.
-
-## `beyond_the_code`
-
-I believe the best way to learn programming is to build, make mistakes, debug, and understand why something works.
-
-Every project is an opportunity to improve my problem-solving skills and become a better developer.
-
-## `connect`
+I learn by building, debugging, and asking why code works rather than just that it works. Fundamentals first, then projects that put them to use.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-constanafabula-181717?style=for-the-badge&logo=github)](https://github.com/constanafabula)
+<br />
 
-**Learning today. Building for tomorrow.**
+**`Learning today. Building for tomorrow.`**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1677FF,50:0B1F4B,100:050816&height=110&section=footer)
+<br />
+
+[![Contact on GitHub](https://img.shields.io/badge/Contact-github.com%2Fconstanafabula-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E)](https://github.com/constanafabula)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:0F1B3D,100:0A0F1E&height=120&section=footer" alt="Footer banner" width="100%" />
 
 </div>
