@@ -2,178 +2,68 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:0F1B3D,100:3B82F6&height=220&section=header&text=Kaizer%20Entrata&fontSize=56&fontColor=E6F1FF&fontAlign=50&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20IN%20PROGRESS&descSize=18&descAlignY=60&animation=fadeIn" alt="Kaizer Entrata - Full-Stack Developer in Progress banner" width="100%" />
 
-<a href="https://github.com/constanafabula">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=BSIT+Student+%7C+Aspiring+Software+Engineer;Learning+Backend+Development;Building+Practical+Web+Applications;Always+Learning.+Always+Building." alt="Typing animation: BSIT Student, Learning Backend Development, Building Practical Web Applications" />
-</a>
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-constanafabula-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E)](https://github.com/constanafabula)
-[![Repositories](https://img.shields.io/badge/Repositories-Browse-3B82F6?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0A0F1E)](https://github.com/constanafabula?tab=repositories)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=BSIT+Student+%7C+Aspiring+Software+Engineer;Learning+Backend+Development;Building+Practical+Web+Applications;Always+Learning.+Always+Building." alt="Typing animation: BSIT Student, Learning Backend Development, Building Practical Web Applications" />
 
 </div>
 
 <br />
 
-I'm a BSIT student working toward becoming a full-stack developer. I'm interested in how web applications are put together: how the frontend talks to the backend, how data is modeled and stored in a database, and how all of it can be kept maintainable. I learn by building small, practical projects and figuring out why they work.
+## `> about_me`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=C9D1D9&width=640&height=30&lines=Hi%2C+I'm+Kaizer.;I+build+small+projects+to+learn+how+systems+work." alt="Typing animation: Hi, I'm Kaizer. I build small projects to learn how systems work." />
+
+I'm a BSIT student working toward becoming a full-stack developer. I'm most interested in backend development, web applications, and databases, and I enjoy understanding how the pieces of a system fit together. I improve through hands-on projects: building something small, breaking it, and learning why it works.
 
 <br />
 
-## `> whoami`
+## `> tech_stack`
 
-```js
-const kaizer = {
-  name: "Kaizer Entrata",
-  github: "constanafabula",
-  status: "BSIT student",
-  aspiringTo: "Full-Stack Developer",
-  focus: ["Backend development", "Web applications", "Database design"],
-  currentlyLearning: [
-    "JavaScript & TypeScript fundamentals",
-    "REST APIs with Node.js & Express.js",
-    "Authentication & application security",
-    "SQL & relational database design",
-  ],
-  approach: "Understand the fundamentals instead of just copying code",
-  goal: "Build useful, maintainable applications",
-};
-```
-
-<br />
-
-## `> stack`
-
-> These badges show technologies I use or am actively learning. They don't imply equal proficiency.
-
-**Languages & web fundamentals**
+**Used or worked with**
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-3B82F6?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0A0F1E" alt="Kotlin" />
   <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0F1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A0F1E" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-3B82F6?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0F1E" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0F1E" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logoColor=white&labelColor=0A0F1E" alt="SQL" />
-</p>
-
-**Backend & databases**
-
-<p>
+  <img src="https://img.shields.io/badge/HTML-3B82F6?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0F1E" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-3B82F6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0F1E" alt="CSS" />
+  <img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&labelColor=0A0F1E" alt="SQL" />
   <img src="https://img.shields.io/badge/Node.js-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0F1E" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-3B82F6?style=for-the-badge&logo=express&logoColor=white&labelColor=0A0F1E" alt="Express.js" />
   <img src="https://img.shields.io/badge/SQLite-3B82F6?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A0F1E" alt="SQLite" />
-</p>
-
-**Development tools**
-
-<p>
   <img src="https://img.shields.io/badge/Git-3B82F6?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0F1E" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A0F1E" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-3B82F6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A0F1E" alt="VS Code" />
   <img src="https://img.shields.io/badge/npm-3B82F6?style=for-the-badge&logo=npm&logoColor=white&labelColor=0A0F1E" alt="npm" />
+</p>
+
+**Currently learning or improving**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A0F1E" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-1E3A8A?style=for-the-badge&labelColor=0A0F1E" alt="Backend architecture" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1E3A8A?style=for-the-badge&labelColor=0A0F1E" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Authentication-1E3A8A?style=for-the-badge&labelColor=0A0F1E" alt="Authentication" />
+  <img src="https://img.shields.io/badge/Relational%20Database%20Design-1E3A8A?style=for-the-badge&labelColor=0A0F1E" alt="Relational database design" />
+  <img src="https://img.shields.io/badge/Application%20Security-1E3A8A?style=for-the-badge&labelColor=0A0F1E" alt="Application security" />
 </p>
 
 <br />
 
 ## `> projects`
 
-A mix of learning projects at different stages. Features marked *planned* are not built yet.
-
-### SchoolHub
-
-A school-focused learning management system, built frontend-first with backend integration planned or in progress.
-
-- Workflows for students, teachers, and school administrators
-- Classes, assessments, learning materials, and announcements
-- Database design and SQLite integration (*in progress*)
-- Not production-ready; several features are still *planned*
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square&logo=typescript&logoColor=white&labelColor=0A0F1E" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white&labelColor=0A0F1E" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0F1E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-3B82F6?style=flat-square&logo=express&logoColor=white&labelColor=0A0F1E" alt="Express.js" />
-  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=flat-square&logo=sqlite&logoColor=white&labelColor=0A0F1E" alt="SQLite" />
-</p>
-
-**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO: replace with the real repo URL -->
-**Live demo:** *coming soon* <!-- TODO: add demo URL or delete this line -->
-
-### EventEase
-
-An event discovery and management website with a clean, accessible interface. This version is being developed as a school assignment using plain HTML, CSS, and basic JavaScript.
-
-- Event discovery and event-related information
-- Clean, accessible interface
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-3B82F6?style=flat-square&logo=html5&logoColor=white&labelColor=0A0F1E" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=flat-square&logo=css3&logoColor=white&labelColor=0A0F1E" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white&labelColor=0A0F1E" alt="JavaScript" />
-</p>
-
-**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO -->
-**Live demo:** *coming soon* <!-- TODO -->
-
-### Jotly
-
-A lightweight notes application with an Express backend and SQLite persistence.
-
-- Create and organize notes
-- Titles, content, tags, and timestamps
-- Drafts and favorites
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0F1E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-3B82F6?style=flat-square&logo=express&logoColor=white&labelColor=0A0F1E" alt="Express.js" />
-  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=flat-square&logo=sqlite&logoColor=white&labelColor=0A0F1E" alt="SQLite" />
-</p>
-
-**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO -->
-**Live demo:** *coming soon* <!-- TODO -->
-
-### TaskFlow
-
-A task and board management app for practicing authentication and data modeling.
-
-- Boards and tasks with Kanban-style organization
-- Authentication with password hashing
-- Board join codes
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-3B82F6?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0F1E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-3B82F6?style=flat-square&logo=express&logoColor=white&labelColor=0A0F1E" alt="Express.js" />
-  <img src="https://img.shields.io/badge/SQLite-3B82F6?style=flat-square&logo=sqlite&logoColor=white&labelColor=0A0F1E" alt="SQLite" />
-  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white&labelColor=0A0F1E" alt="JavaScript" />
-</p>
-
-**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO -->
-**Live demo:** *coming soon* <!-- TODO -->
-
-### Accounting Flashcards
-
-An interactive, browser-based study tool for practicing accounting terminology.
-
-- Accounting flashcards
-- Quiz and identification-style practice activities
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-3B82F6?style=flat-square&logo=html5&logoColor=white&labelColor=0A0F1E" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=flat-square&logo=css3&logoColor=white&labelColor=0A0F1E" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white&labelColor=0A0F1E" alt="JavaScript" />
-</p>
-
-**Repository:** [github.com/constanafabula/REPLACE-WITH-REPO-NAME](https://github.com/constanafabula?tab=repositories) <!-- TODO -->
-**Live demo:** *coming soon* <!-- TODO -->
+- **SchoolHub:** A private, school-focused learning management system project.
+- **EventEase:** An unfinished event discovery and management website, built for a school assignment with HTML, CSS, and basic JavaScript.
+- **Jotly:** An unfinished notes application exploring Node.js, Express.js, and SQLite.
+- **TaskFlow:** A task and board management project exploring task organization, authentication, and backend development.
+- **Accounting Flashcards:** A browser-based accounting study tool built with HTML, CSS, and JavaScript.
 
 <br />
 
-## `> stats`
+## `> github_stats`
 
 <div align="center">
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=constanafabula&show_icons=true&hide_border=false&bg_color=0A0F1E&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&border_color=1E293B&count_private=false" alt="GitHub stats for constanafabula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=constanafabula&show_icons=true&bg_color=0A0F1E&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&border_color=1E293B" alt="GitHub stats for constanafabula" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanafabula&layout=compact&langs_count=6&bg_color=0A0F1E&title_color=3B82F6&text_color=C9D1D9&border_color=1E293B" alt="Most used languages for constanafabula" />
 </p>
 
@@ -189,30 +79,20 @@ An interactive, browser-based study tool for practicing accounting terminology.
 
 <br />
 
-## `> currently_learning`
+## `> learning_goals`
 
 - Strengthening JavaScript and TypeScript fundamentals
 - Building REST APIs with Node.js and Express.js
-- Learning authentication and application security
-- Understanding SQL, relational database design, foreign keys, and data integrity
-- Connecting frontend applications to backend services
-- Improving Git and GitHub workflows
+- Understanding authentication and application security
+- Improving SQL, database relationships, and data integrity
+- Connecting frontend interfaces to backend services
+- Developing consistent Git and GitHub habits
 
 <br />
-
-## `> philosophy`
-
-I learn by building, debugging, and asking why code works rather than just that it works. Fundamentals first, then projects that put them to use.
 
 <div align="center">
 
-<br />
-
-**`Learning today. Building for tomorrow.`**
-
-<br />
-
-[![Contact on GitHub](https://img.shields.io/badge/Contact-github.com%2Fconstanafabula-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0F1E)](https://github.com/constanafabula)
+> *"First make it work, then make it right."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:0F1B3D,100:0A0F1E&height=120&section=footer" alt="Footer banner" width="100%" />
 
