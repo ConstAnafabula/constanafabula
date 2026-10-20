@@ -1,32 +1,73 @@
-name: Generate Contribution Snake
+name: Update Profile Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at 00:00 UTC
-  workflow_dispatch: # lets you run it manually from the Actions tab
+    - cron: "23 */6 * * *" # every 6 hours, off-peak minute
+  workflow_dispatch: # manual run from the Actions tab
   push:
     branches:
       - main
+      - master
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
 jobs:
-  generate:
+  update:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      USER_NAME: ${{ github.repository_owner }}
+      REPO: ${{ github.repository }}
     steps:
-      - name: Generate snake animation
+      - name: Prepare output branch
+        run: |
+          REMOTE="https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git"
+          if git ls-remote --exit-code --heads "$REMOTE" output >/dev/null 2>&1; then
+            git clone --depth 1 --branch output "$REMOTE" out
+            cd out && git checkout --orphan snapshot
+          else
+            mkdir out && cd out && git init -b snapshot
+            git remote add origin "$REMOTE"
+          fi
+
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            out/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch fresh stats cards
+        run: |
+          TS=$(date +%s)
+          fetch() {
+            # $1 = url, $2 = output file name
+            if curl -fsSL --max-time 60 "$1&t=${TS}" -o tmp.svg \
+              && grep -q "<svg" tmp.svg \
+              && ! grep -qiE "something went wrong|maximum retries|try again later|could not fetch|could not find" tmp.svg; then
+              mv tmp.svg "out/$2"
+              echo "Updated $2"
+            else
+              echo "Skipped $2 (service error); keeping previous version"
+              rm -f tmp.svg
+            fi
+          }
+
+          fetch "https://github-readme-stats.vercel.app/api?username=${USER_NAME}&show_icons=true&bg_color=0A0F1E&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&border_color=1E293B" "github-stats.svg"
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=${USER_NAME}&layout=compact&langs_count=6&bg_color=0A0F1E&title_color=3B82F6&text_color=C9D1D9&border_color=1E293B" "top-langs.svg"
+          fetch "https://streak-stats.demolab.com?user=${USER_NAME}&background=0A0F1E&border=1E293B&stroke=1E293B&ring=3B82F6&fire=3B82F6&currStreakNum=E6F1FF&sideNums=E6F1FF&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=8B98A9" "streak.svg"
+
+      - name: Publish to output branch
+        run: |
+          cd out
+          git add -A
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "Update stats $(date -u +%F)"
+          git push -f origin snapshot:output
