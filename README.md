@@ -63,12 +63,12 @@ I'm a BSIT student working toward becoming a full-stack developer. I'm most inte
 <div align="center">
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=constanafabula&show_icons=true&bg_color=0A0F1E&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&border_color=1E293B&cache_seconds=21600" alt="GitHub stats for constanafabula" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constanafabula&layout=compact&langs_count=6&bg_color=0A0F1E&title_color=3B82F6&text_color=C9D1D9&border_color=1E293B&cache_seconds=21600" alt="Most used languages for constanafabula" />
+  <img height="170" src="https://raw.githubusercontent.com/constanafabula/constanafabula/output/github-stats.svg" alt="GitHub stats for constanafabula" />
+  <img height="170" src="https://raw.githubusercontent.com/constanafabula/constanafabula/output/top-langs.svg" alt="Most used languages for constanafabula" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=constanafabula&background=0A0F1E&border=1E293B&stroke=1E293B&ring=3B82F6&fire=3B82F6&currStreakNum=E6F1FF&sideNums=E6F1FF&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=8B98A9&cache_seconds=21600" alt="GitHub contribution streak for constanafabula" />
+  <img src="https://raw.githubusercontent.com/constanafabula/constanafabula/output/streak.svg" alt="GitHub contribution streak for constanafabula" />
 </p>
 
 <p>
